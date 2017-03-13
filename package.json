@@ -1,0 +1,28 @@
+{
+  "name": "zurb-doc",
+  "main": "./lib/zurb-doc",
+  "version": "0.3.0",
+  "description": "Atom Zurb Foundation Doc is a package allows you to consult the documentation in Zurb Foundation site Doc",
+  "author": {
+    "name": "Laurent Rémy",
+    "github": "https://github.com/manolenso",
+    "twitter": "@manolenso"
+  },
+  "keywords": [
+    "Foundation",
+    "doc",
+    "Zurb"
+  ],
+  "activationCommands": {
+    "atom-workspace": "zurb-doc:doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manolenso/zurb-foundation-doc"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

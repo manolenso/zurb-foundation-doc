@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-workspace": [
+      {
+        "label": "Zurb Doc",
+        "command": "zurb-doc:doc"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Zurb Doc",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "zurb-doc:doc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "zurb-doc",
   "main": "./lib/zurb-doc",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Atom Zurb Foundation Doc is a package allows you to consult the documentation in Zurb Foundation site Doc",
   "author": {
     "name": "Laurent Rémy",
